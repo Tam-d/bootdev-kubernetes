@@ -10,5 +10,13 @@
             "extensions": [
             ]
         }
+    },
+
+    "features": {
+        "docker-in-docker": {
+            "version": "latest",
+            "moby": false,
+            "installDockerBuildx": true
+        }
     }
 }
