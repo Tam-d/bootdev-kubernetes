@@ -1,0 +1,14 @@
+{
+    "name": "bootdev-kubernetes",
+    
+    "build": {
+        "dockerfile": "./Dockerfile"
+    },
+    
+    "customizations": {
+        "vscode": {
+            "extensions": [
+            ]
+        }
+    }
+}
